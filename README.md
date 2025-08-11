@@ -4,7 +4,6 @@
 💻 Interested in **software engineering**, **AI**, **quantum computing** , and **cybersecurity**
 📍 Austin, TX
 
----
 
 <div>
 <!-- Website Button -->
