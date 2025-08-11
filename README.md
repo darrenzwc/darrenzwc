@@ -1,5 +1,4 @@
 # Hi, I'm Darren Chan 👋
-![Profile Banner](https://avatars.githubusercontent.com/u/136639184?v=4)  
 🎓 **Computer Science Student** at the **University of Texas at Austin**  
 💻 Interested in **software engineering**, **AI**, **quantum computing** , and **cybersecurity**
 📍 Austin, TX
@@ -31,7 +30,6 @@
 
 ---
 
-## 📊 GitHub Snapshot (live)
 <div align="center">
 
 <!-- GitHub Stats -->
