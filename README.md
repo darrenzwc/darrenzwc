@@ -3,6 +3,13 @@
 💻 Interested in **software engineering**, **AI**, **quantum computing** , and **cybersecurity**
 📍 Austin, TX
 
+<div>
+<!-- Website Button -->
+  <a href="https://darrenzwc.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Website" />
+  </a>
+</div>
+
 ---
 
 ## 🛠 Skills & Technologies
