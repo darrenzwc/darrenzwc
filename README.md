@@ -1,10 +1,10 @@
 # Hi, I'm Darren Chan 👋
 
 🎓 **Computer Science Student** at the **University of Texas at Austin**  
-
 💻 Interested in **software engineering**, **AI**, **quantum computing** , and **cybersecurity**
-
 📍 Austin, TX
+
+---
 
 <div>
 <!-- Website Button -->
