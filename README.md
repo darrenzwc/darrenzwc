@@ -6,8 +6,6 @@
 ---
 
 ## 🛠 Skills & Technologies
-
-## 💻 Technical Skills
 - **Programming Languages:** Java, Python, JavaScript, SQL, R, C++, C#
 - **Security & Networking:** Splunk, Zeek, Palo Alto Firewalls, Nmap, Nessus, Nikto, Metasploit, Wireshark
 - **Data Science & AI:** PyTorch, Scikit-learn, OpenCV, Deep Learning, AWS Certified AI Practitioner
